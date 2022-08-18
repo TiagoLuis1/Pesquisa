@@ -1,0 +1,17 @@
+Teste de software:
+
+-Conceito:O teste é uma maneira eficiente de avaliar a qualidade da aplicação e reduzir os riscos de algum tipo de falha,O teste não consiste apenas em executar o software mas sim alcançar objetivos de uma forma mais simples.
+
+-Caso:O caso é um conjunto de ações executadas para conferir se uma função específica está funcionando ou não de acordo com os requisitos apresentados(Requisitos do cliente).
+
+-Defeito:Um software pode apresentar vários defeitos sendo eles falta de interpretação,codificação errada,dados errados,inconsistencia em alguns dados ou mesmo usuários que especificam requisitos errados.
+
+-Falha:A falha é a diferença entre um resultado obtido e um resultado esperado,podendo gerar um defeito,ou alguma falha que não foi esperada pelo criador,falhas podem aparecer de acordo com o tempo de uso.
+
+-Teste estático:Objetivo de analisar o código sem precisar executar,verificando se as boas práticas adotadas foram bem sucedidas.Tem como principal objetivo identificar erros de programação.
+
+-Testes dinamico:Envolve todos os tipos de testes de níveis de softwre.Executando o sistema para teste.Essa análise se complementa sendo realizada a entrada e a saída de dados.
+
+-Critério de aceitação:Ele diz como um software deve funcionar e para seus usuários a fazer um determinado trabalho,São sobre os recursos que o software oferece.Último passo para ser aprovado e ser usado.
+
+-Artefatos de testes:Oa critérios de aceitação funcional dizem como o software precisa se comportar para ajudar os usuários a fazer seus trabalhos.Eles são sobre uma função,ou recurso,que seu software oferece.Os critérios não funcionais especificam os requisitos para tudo mais,o artefato é a especificação de um conjunto de entradas de teste, condições de execução e resultados esperados, identificados com a finalidade de fazer a avaliação de algum aspecto particular de um cenário.
