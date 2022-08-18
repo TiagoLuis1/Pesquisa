@@ -16,3 +16,7 @@ Ou seja, quanto mais experiência você tiver, mais rico será o teste.
 -Teste de volume:Os testes de volume avaliam a quantidade de dados que o sistema pode gerenciar. O objetivo é verificar a capacidade da solução de acordo com seus requisitos e encontrar gargalos.
 
 -Teste de estresse:Teste de stress é realizado para submeter o software a situações extremas. Basicamente, o teste de stress baseia-se em testar os limites do software e avaliar seu comportamento. Assim, avalia-se até quando o software pode ser exigido e quais as falhas (se existirem) decorrentes do teste
+
+-Teste de carga:Teste de carga é usado para verificar o limite de dados processados pelo software até que ele não consiga mais processa-lo. Também é conhecido como teste de Volume.
+
+-Smoketest:Na programação de computadores e no teste de software, o teste de fumaça é um teste preliminar para revelar falhas simples, graves o suficiente para, por exemplo, rejeitar uma versão em potencial do software.
