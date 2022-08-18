@@ -1,0 +1,10 @@
+Níveis de teste:
+
+
+-Teste de unidade:Reduz defeitos apresentados pelo produto,cobre uma gama maior de equipamentos e ambientes operacionais do que alguns disponíveis em empresas,assegura a qualidade final do produto para quem for usar,o teste é automatizado faz pelo menos um teste por dia em várias funçoes do software seja em uma conta ou até mesmo apertando um botão.Consiste o teste alfa e beta antes de rodar para usuários.
+
+-Teste de integração:Consiste em módulos que são integrados e testados em grupo. Como por exemplo seu software, acessando um banco de dados ou fazendo uma chamada externa a outros sistemas.Feitos também pelo Programador sem participação de um testador. Com o foco em encontrar falhas na transmissão de dados entre componentes de um sistema.
+
+-Teste de sistema:É o processo de testar o sistema por completo. Verificando se os componentes são compatíveis, se eles interagem corretamente e se transferem os dados certos no momento certo. Tem como objetivo executar o software sob o ponto de vista do seu usuário final, realizando o teste do sistema.É planejado e realizado pela equipe de teste. Programadores não tem participação no processo.Os testes são realizados baseando-se nos documentos de especificações fornecidos daquele sistema. Quando um software é desenvolvido criamos um documento especificando o comportamento do software.A diferença do teste de sistema é que o teste é realizado após a codificação do sistema estar concluída.
+
+-Teste de aceitação:Tem como objetivo executar o sistema sob o ponto de vista do usuário final. O cliente avalia o sistema e após a experiência de utilização tem a responsabilidade de aceitar ou não o sistema que foi entregue e pelo qual foi pago.
