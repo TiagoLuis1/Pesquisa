@@ -1,0 +1,27 @@
+Plano de teste:
+
+-Elaboração:
+1-Requisitos a serem testados. ...
+2-Estratégias e ferramentas de teste. ...
+3-Equipe e infra-estrutura. ...
+4-Cronograma de atividades. ...
+5-Documentação complementar.
+Link da imagem de exemplo:https://www.devmedia.com.br/imagens/engsoft/ed15/artigo6/image.jpg
+
+-Epecificação:Contém uma identificação do projeto, descrição dos objetivos do documento, o público ao qual ele se destina e escopo do projeto a ser desenvolvido. Pode adicionalmente conter termos e abreviações usadas, além de informar como o plano deve evoluir
+Link da imagem de exemplo:https://image.slidesharecdn.com/planodetestesecommerce-161224215541/85/exemplo-de-plano-de-testes-7-320.jpg?cb=1482616560
+
+-Tipos de testes a serem executados:
+1-Teste de usabilidade.
+2-Testes funcionais.
+3-Teste de integração.
+4-Testes de performance. 4.1 Testes de carga e estresse. 4.2 Teste de estabilidade.
+5-Teste de regressão.
+6-Teste de segurança
+
+
+-Registro de teste:
+O processo de teste está divido em 3 fases.
+1-Unidade
+2-Integração
+3-Sistema de aceitação
