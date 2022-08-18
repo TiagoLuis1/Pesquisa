@@ -1,0 +1,14 @@
+Gestão de defeitos:
+
+-Causas:Quais são as causas de um software apresentar falhas?
+Por que as falhas de software acontecem? Uma das causas principais de falhas de software é o erro humano na programação das aplicações. Isso ocorre muitas vezes durante o processo de codificação, mas pode surgir também em outras etapas do ciclo de vida de desenvolvimento.
+Link da imagem:https://www.devmedia.com.br/gestao-de-defeitos-ferramentas-open-source-e-melhores-praticas-na-gestao-de-defeitos/8036
+
+-Ciclo de vida:Ciclo de vida do software é o termo utilizado para definir o conjunto de etapas que ocorrem entre a concepção de um sistema e o instante em que ele é descontinuado pelo desenvolvedor. Ele ajuda a orientar a equipe de desenvolvedores, assim como o direcionamento de recursos.
+Link da imagem:https://www.adonai.eti.br/wordpress/wp-content/uploads/2014/01/ModeloCascata-500x184.png
+
+-Consequencia:É qualquer imperfeição ou inconsistência no produto do software ou em seu processo, um defeito é também uma não conformidade. O Defeito faz parte do produto, é algo que esta implementada no código de maneira errada.
+Link da imagem:https://www.devmedia.com.br/imagens/engsoft/artigo8/image01.jpg
+
+-Regra 10 de Myers:A regra 10 de Myers apresenta que o custo da correção de um defeito tende a aumentar quanto mais tarde ele for encontrado. Os defeitos encontrados nas fases iniciais do projeto de desenvolvimento do software são mais baratos do que aqueles encontrados na produção.
+Link da imagem:http://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s1600/10myers.jpg
