@@ -7,3 +7,8 @@ Link da imagem:https://www.napratica.org.br/wp-content/uploads/2022/03/Diagrama-
 
 -Classe de equivalencia e valores limites:Análise do Valor Limite é uma técnica de teste de software utilizada para exercitar os limites do domínio de entrada. Considerada um complemento do Particionamento de Equivalência, focalizando a seleção de Casos de Teste nas bordas da classe, ou seja, nos valores próximos às extremidades das classes
 Link da imagem:https://viniciuspessoni.com/2020/03/15/analise-do-valor-limite/
+
+-Step by step:Conhecer os tipos de testes
+1-Aplicar de acordo com contexto
+2-Nível do Teste
+3-Ferramentas para cada tipo de teste
