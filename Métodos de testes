@@ -1,0 +1,9 @@
+Métodos de testes:
+
+-Pairwise:Traduzido do inglês-Na ciência da computação, o teste de todos os pares ou de pares é um método combinatório de teste de software que, para cada par de parâmetros de entrada em um sistema, testa todas as combinações discretas possíveis desses parâmetros.
+
+-Gráfico de causa e efeito ou diagrama de Ishikawa:O Diagrama de Ishikawa, também conhecido como Diagrama de Causa e Efeito ou Diagrama Espinha de peixe, é um gráfico cuja finalidade é organizar o raciocínio em discussões de um problema prioritário, em processos diversos, especialmente na produção industrial
+Link da imagem:https://www.napratica.org.br/wp-content/uploads/2022/03/Diagrama-Ishikawa.png
+
+-Classe de equivalencia e valores limites:Análise do Valor Limite é uma técnica de teste de software utilizada para exercitar os limites do domínio de entrada. Considerada um complemento do Particionamento de Equivalência, focalizando a seleção de Casos de Teste nas bordas da classe, ou seja, nos valores próximos às extremidades das classes
+Link da imagem:https://viniciuspessoni.com/2020/03/15/analise-do-valor-limite/
