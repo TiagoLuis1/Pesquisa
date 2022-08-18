@@ -1,0 +1,13 @@
+Ferramentas de testes:
+
+-Mantis:O Mantis Bug Tracker é um popular sistema de gerenciamento de defeitos de fácil customização, instalação e entendimento. Ele é uma ferramenta gratuita escrita em PHP que é acessada através de um browser,Mantis é uma ferramenta WEB open source, desenvolvida em PHP, customizável e totalmente balanceada entre simplicidade e desempenho para controle de bugs. Essa ferramenta suporta muitos sistemas de banco de dados, são eles: MySQL, MS SQL, PostgreSQL e DB2.
+Link da imagem:http://2.bp.blogspot.com/_NRfMQ-mYtwk/S-dsSSOXHVI/AAAAAAAAAqI/nmi717-vpDA/s1600/ambientes+de+teste.jpg
+
+-Testlink:Funcionalmente, a ferramenta permite que sejam cadastrados Projetos de Teste, bem como seus respectivos Planos e Casos de testes à serem validados. Então, a partir da definição do escopo do projeto de teste, é possível controlar e armazenar a execução dos casos de teste especificados.
+Link da imagem:https://miro.medium.com/max/1366/1*xerqapP0BSZnoqT7AXsqPA.png
+
+-JUnit:O JUnit é um framework open-source, que se assemelha ao raio de testes software java, criado por Erich Gamma e Kent Beck, com suporte à criação de testes automatizados na linguagem de programação Java. Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados.
+Link da imagem:https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.devmedia.com.br%2Fimagens%2Fjavamagazine%2Fmpjuiiujfig07.jpg&imgrefurl=https%3A%2F%2Fwww.devmedia.com.br%2Fjunit-tutorial%2F1432&tbnid=kuo3Fh9WQFr78M&vet=12ahUKEwjog9-svtD5AhVJs5UCHcWmCN8QMygBegUIARC8AQ..i&docid=ntzuZ_11vSEx7M&w=637&h=399&q=junit%20o%20que%20e&ved=2ahUKEwjog9-svtD5AhVJs5UCHcWmCN8QMygBegUIARC8AQ
+
+-Selenium:Selenium é um framework portátil para testar aplicativos web. O Selenium fornece uma ferramenta de reprodução para a criação de testes funcionais sem a necessidade de aprender uma linguagem de script de teste.
+Link da imagem:https://medium.com/@rafaelberam/automa%C3%A7%C3%A3o-de-testes-cucumber-selenium-em-ruby-introdu%C3%A7%C3%A3o-e-conceitos-2bfa28793980
