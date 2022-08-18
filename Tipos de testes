@@ -10,3 +10,9 @@ Ou seja, quanto mais experiência você tiver, mais rico será o teste.
 -Teste de segurança:Um dos mais importantes tipos de teste da atualidade.Nos últimos anos foram criadas leis como a Lei Geral de Proteção de Dados (LGPD), no Brasil, e a General Data Protection Regulation (GDPR), na União Europeia.
 
 -Teste de performance:Esse teste faz uma simulação de uso de aplicação ou sistema o mais próximo possível de uma situação real,utilizando ferramentas que automatizam tarefas diferentes.
+
+-Teste de recuperação:Teste de recuperação, no contexto da engenharia de software, é um teste utilizado para verificar a robustez e também a capacidade de um determinado software para retornar a um estado operacional após estar em um estado de falha.
+
+-Teste de volume:Os testes de volume avaliam a quantidade de dados que o sistema pode gerenciar. O objetivo é verificar a capacidade da solução de acordo com seus requisitos e encontrar gargalos.
+
+-Teste de estresse:Teste de stress é realizado para submeter o software a situações extremas. Basicamente, o teste de stress baseia-se em testar os limites do software e avaliar seu comportamento. Assim, avalia-se até quando o software pode ser exigido e quais as falhas (se existirem) decorrentes do teste
