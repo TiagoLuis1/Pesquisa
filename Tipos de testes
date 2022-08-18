@@ -1,0 +1,12 @@
+Tipos de testes:
+
+-Teste funcinal:Essa técnica testa os requisitos funcionais, as funções e os casos de uso (User Stories). É possível realizar testes funcionais manualmente, sem ferramentas, ou com o auxílio de ferramentas e frameworks. Um dos frameworks mais utilizados é o Selenium WebDriver.(O Selenium WebDriver usa o próprio driver do navegador para a automação. É a forma mais moderna de interação atualmente, pois cada browser possui o seu respectivo driver, permitindo a interação entre o script de teste e o respectivo browser).
+
+-Teste regressivo:O teste regressivo consiste em como objetivo rodar testes de funcionalidades que já funcionavam anteriormente, relacionando-as com as atualizações realizadas no software. A ideia é garantir que o que já funcionava continua funcionando após alguma alteração e confirmar que as mudanças não causaram nenhum impacto.O teste regressivo pode ser realizado manualmente ou de modo automatizado.
+
+-Teste exploratório:Esse tipo de teste de software exige experiência do testador / analista de testes. É a técnica que busca empregar todo o conhecimento prévio do testador em busca de novas falhas.Por exemplo: pessoa "A" trabalhou em um projeto "A" e encontrou uma falha. Quando a pessoa A trabalhar em um projeto "B", ela tentará encontrar a mesma falha identificada no projeto "A".
+Ou seja, quanto mais experiência você tiver, mais rico será o teste.
+
+-Teste de segurança:Um dos mais importantes tipos de teste da atualidade.Nos últimos anos foram criadas leis como a Lei Geral de Proteção de Dados (LGPD), no Brasil, e a General Data Protection Regulation (GDPR), na União Europeia.
+
+-Teste de performance:Esse teste faz uma simulação de uso de aplicação ou sistema o mais próximo possível de uma situação real,utilizando ferramentas que automatizam tarefas diferentes.
