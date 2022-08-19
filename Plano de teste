@@ -1,10 +1,10 @@
 Plano de teste:
 
 -Elaboração:
-1-Requisitos a serem testados. ...
-2-Estratégias e ferramentas de teste. ...
-3-Equipe e infra-estrutura. ...
-4-Cronograma de atividades. ...
+1-Requisitos a serem testados. 
+2-Estratégias e ferramentas de teste. 
+3-Equipe e infra-estrutura. 
+4-Cronograma de atividades. 
 5-Documentação complementar.
 Link da imagem de exemplo:https://www.devmedia.com.br/imagens/engsoft/ed15/artigo6/image.jpg
 
@@ -15,7 +15,7 @@ Link da imagem de exemplo:https://image.slidesharecdn.com/planodetestesecommerce
 1-Teste de usabilidade.
 2-Testes funcionais.
 3-Teste de integração.
-4-Testes de performance. 4.1 Testes de carga e estresse. 4.2 Teste de estabilidade.
+4-Testes de performance,Testes de carga e estresse,Teste de estabilidade.
 5-Teste de regressão.
 6-Teste de segurança
 
