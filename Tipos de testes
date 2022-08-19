@@ -20,3 +20,9 @@ Ou seja, quanto mais experiência você tiver, mais rico será o teste.
 -Teste de carga:Teste de carga é usado para verificar o limite de dados processados pelo software até que ele não consiga mais processa-lo. Também é conhecido como teste de Volume.
 
 -Smoketest:Na programação de computadores e no teste de software, o teste de fumaça é um teste preliminar para revelar falhas simples, graves o suficiente para, por exemplo, rejeitar uma versão em potencial do software.
+
+-Teste de aceitação:Teste de aceitação é uma fase do processo de teste em que um teste de caixa preta é realizado num sistema antes de sua disponibilização.Tem por função verificar o sistema em relação aos seus requisitos originais,e as nescessidades atuais do usuário.
+
+-Teste manual:Teste de um aplicativo manualmente por um ser humano.Um especialista em garantia de qualidade que executa testes manuais garante que um aplicativo esteja funcionando corretamente seguindo as condiçoes descritas nos casos de teste.
+
+-Teste automatizado:O teste automatizado é a aplicação de ferramentas de software para automatizar um processo manual conduzido por humanos de revisão e validação de um produto de software. A maioria dos projetos de software ágeis e de DevOps modernos agora inclui testes automatizados desde o início.
